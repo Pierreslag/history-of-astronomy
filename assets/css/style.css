@@ -9,4 +9,19 @@
 body {
     font-family: Yeseva, sans-serif;
     font-weight: 300;
+    color: deepskyblue;
+}
+
+/* heading & logo*/
+
+h1, h2 {
+    font-family: Yeseva, sans-serif;
+    color: rgb(9, 1, 15);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+#logo {
+    float: left;
+    font-size: 250%;
 }
