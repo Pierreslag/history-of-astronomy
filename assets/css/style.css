@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: Yeseva, sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     font-weight: 300;
     background-color: black;
     color: #fff;
@@ -16,7 +16,7 @@ body {
 /* heading & logo*/
 
 h1, h2 {
-    font-family: yeseva, sans-serif;
+    font-family: 'Yeseva One', cursive;
     color: #fff;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -33,6 +33,7 @@ h1, h2 {
     font-size: 110%;
     letter-spacing: 4px;
     color: #fff;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 #menu, #logo {
