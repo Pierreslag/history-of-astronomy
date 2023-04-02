@@ -9,7 +9,7 @@
 body {
     font-family: Yeseva, sans-serif;
     font-weight: 300;
-    color: deepskyblue;
+    background-color: deepskyblue;
 }
 
 /* heading & logo*/
@@ -24,4 +24,34 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 250%;
+}
+
+/* navigation */
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid;
+}
+
+.active {
+    border-bottom: 1px solid;
 }
