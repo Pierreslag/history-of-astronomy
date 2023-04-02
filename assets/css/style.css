@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&family=Yeseva+One&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+
 body {
-    font-family: Arial;
+    font-family: Yeseva, sans-serif;
+    font-weight: 300;
 }
