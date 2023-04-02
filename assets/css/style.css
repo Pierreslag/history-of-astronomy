@@ -9,13 +9,14 @@
 body {
     font-family: Yeseva, sans-serif;
     font-weight: 300;
-    background-color: deepskyblue;
+    background-color: black;
+    color: #fff;
 }
 
 /* heading & logo*/
 
 h1, h2 {
-    font-family: Yeseva, sans-serif;
+    font-family: yeseva, sans-serif;
     color: #fff;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -63,6 +64,7 @@ h1, h2 {
     height: 600px;
     width: 100%;
     overflow: hidden;
+    position: relative;
 }
 
 #hero {
@@ -71,3 +73,29 @@ h1, h2 {
     background: url('../images/pexels-pixabay-2150.jpg') no-repeat center center;
 }
 
+#heroover, #heroover h2 {
+    color: black;
+}
+
+#heroover {
+    font-size: 150%;
+    font-family: Arial, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 600px;
+    height: 300px;
+
+    padding-top: 10px;
+    padding-left: 10px;
+    background-color: rgba(241, 109, 107, .3);
+
+    top: 30px;
+    left: 150px;
+
+    position: absolute;
+}
+
+#heroover h3 {
+    color: #fff;
+}
