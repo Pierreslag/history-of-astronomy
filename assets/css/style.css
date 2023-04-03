@@ -16,7 +16,7 @@ body {
 /* heading & logo*/
 
 h1, h2 {
-    font-family: 'Yeseva One', cursive;
+    font-family: 'Yeseva One', sans-serif;
     color: #fff;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -25,6 +25,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 250%;
+    margin-left: 40px;
 }
 
 /* navigation */
@@ -43,7 +44,7 @@ h1, h2 {
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 30px;
+    margin-right: 100px;
 }
 
 #menu a {
@@ -62,14 +63,14 @@ h1, h2 {
 /* hero */
 
 #hero-out {
-    height: 600px;
+    height: 800px;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
 
 #hero {
-    height: 600px;
+    height: 800px;
     width: 100%;
     background: url('../images/pexels-pixabay-2150.jpg') no-repeat center center;
 }
@@ -80,7 +81,7 @@ h1, h2 {
 
 #heroover {
     font-size: 150%;
-    font-family: Arial, sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
 
@@ -99,4 +100,12 @@ h1, h2 {
 
 #heroover h3 {
     color: #fff;
+}
+
+/* about us */
+
+#about-us {
+    height: 600px;
+    width: 100%;
+    font-family: 'Josefin Sans', sans-serif;
 }
