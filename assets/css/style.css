@@ -217,7 +217,7 @@ h1, h2 {
 /* footer/media */
 
 footer {
-    height: 100px;
+    height: 40px;
 }
 
 .media {
@@ -232,5 +232,5 @@ footer {
 .media i {
     color: silver;
     font-size: 200%;
-    margin-top: 20px;
+    margin-top: 10px;
 }
