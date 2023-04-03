@@ -92,8 +92,8 @@ h1, h2 {
     padding-left: 10px;
     background-color: rgba(241, 109, 107, .3);
 
-    top: 30px;
-    left: 150px;
+    top: 50px;
+    left: 100px;
 
     position: absolute;
 }
@@ -108,4 +108,13 @@ h1, h2 {
     height: 600px;
     width: 100%;
     font-family: 'Josefin Sans', sans-serif;
+}
+
+#aboutimg {
+    background: url('../images/aboutimg.jpeg');
+    height: 600px;
+    width: 50%;
+    margin: 100px;
+    border-radius: 10px;
+    float: left;
 }
