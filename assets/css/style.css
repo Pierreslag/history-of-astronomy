@@ -105,7 +105,7 @@ h1, h2 {
 /* about us */
 
 #about-us {
-    height: 600px;
+    height: 800px;
     width: 100%;
     font-family: 'Josefin Sans', sans-serif;
 }
@@ -113,14 +113,23 @@ h1, h2 {
 #aboutimg {
     background: url('../images/aboutimg.jpeg');
     height: 600px;
-    width: 50%;
-    margin: 100px;
+    width: 45%;
     border-radius: 10px;
     float: left;
+    margin: 100px;
 }
 
 #abouttext {
     float: right;
     padding-top: 100px;
     width: 33%;
+    line-height: 20px;
+    font-size: 140%;
+}
+
+.abouttext {
+    width: 60%;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
 }
