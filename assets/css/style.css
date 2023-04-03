@@ -275,7 +275,7 @@ footer {
     margin-top: 10px;
 }
 
-/* form */
+/* form and buttons */
 
 #formhead {
     width: 300px;
@@ -292,4 +292,22 @@ footer {
     margin: 10px auto;
     text-align: center;
     font-size: 150%;
+}
+
+#resetbutt {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: lightcoral;
+    border: none;
+    padding: 10px 20px;
+    margin-right: 10px;
+    font-size: 80%;
+}
+
+#submitbutt {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: lightgreen;
+    border: none;
+    padding: 10px 20px;
+    margin-right: 10px;
+    font-size: 80%;
 }
