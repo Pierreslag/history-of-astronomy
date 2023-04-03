@@ -133,3 +133,30 @@ h1, h2 {
     clear: both;
     margin-bottom: 50px;
 }
+
+/* instruments */
+
+#instruments {
+    height: 800px;
+}
+
+#ileft {
+    padding-top: 20px;
+    width: 33%;
+    float: left;
+    background-color: green;
+}
+
+#iright {
+    padding-top: 20px;
+    width: 33%;
+    float: right;
+    background-color: darkorchid;
+}
+
+#imiddle {
+    padding-top: 20px;
+    width: 33%;
+    margin: 0 auto;
+    background-color: red;
+}
