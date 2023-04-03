@@ -235,3 +235,21 @@ footer {
     margin-top: 10px;
 }
 
+/* form */
+
+#formhead {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px;
+    font-size: 240%;
+    
+}
+
+#form {
+    width: 20%;
+    height: 300px;
+    margin: 10px auto;
+    text-align: center;
+    font-size: 150%;
+}
