@@ -228,32 +228,6 @@ h1, h2 {
     font-size: 250%;
 }
 
-/* discoveries */
-
-#discoveries {
-    background-image: url('../images/pexels-photo-1983032.webp');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    width: 100%;
-    overflow: hidden;
-    height: 400px;
-}
-
-#dhead {
-    margin-left: 100px;
-    margin-top: 50px;
-    font-size: 250%;
-}
-
-#inxxxx {
-    margin-left: 100px;
-    margin-top: 50px;
-    font-size: 150%;
-    color: #fff;
-    text-shadow: 1px 1px 3px #000;
-}
-
 /* footer/media */
 
 footer {
