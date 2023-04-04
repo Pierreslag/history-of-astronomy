@@ -169,7 +169,7 @@ h1, h2 {
     flex-shrink: 1;
     z-index: 1;
     color: silver;
-    margin-top: 20x;
+    margin-top: 20px;
 }
 
 .abouttext {
@@ -267,6 +267,10 @@ h1, h2 {
     padding: 10px 20px;
     margin-right: 10px;
     font-size: 80%;
+}
+
+#formdiv {
+    height: 700px;
 }
 
 /* media queries */
