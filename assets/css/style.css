@@ -177,6 +177,8 @@ h1, h2 {
     line-height: 20px;
     margin-bottom: 50px;
     text-align: center;
+    max-height: 600px;
+    overflow: auto;
 }
 
 /* instruments */
@@ -187,7 +189,7 @@ h1, h2 {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    align-items: stretch;
+    align-items: stretch;   
 }
 
 #ihead {
@@ -306,5 +308,16 @@ h1, h2 {
         left: 0;
         padding: 0;
         text-align: center;
+    }
+
+    #instruments {
+        height: 800px;
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: stretch;
+        max-height: 600px;
+        overflow: auto;
     }
 }
