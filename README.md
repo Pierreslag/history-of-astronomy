@@ -102,7 +102,7 @@ This website provides an overview of the history of astronomy instruments, inclu
     o Once the master branch is selected, the page will automatically refresh, and a ribbon will be displayed to indicate the successful deployment of the website.
 
 
-The live link can be found here - [LINKLINKLINK]()
+The live link can be found here - [The Site](https://pierreslag.github.io/history-of-astronomy/index.html)
 
 # Credit
 ## Content
