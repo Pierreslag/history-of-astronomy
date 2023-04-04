@@ -108,6 +108,7 @@ The live link can be found here - [LINKLINKLINK]()
 ## Content
 * Neil deGrasse Tyson - for quote
 * Galileo Galilei - for quote
+* Instruments information - [wikipedia.org](https://en.wikipedia.org/wiki/List_of_astronomical_instruments)
 
 ## Pictures
 * Free pictures at [Pexels](https://www.pexels.com/)
