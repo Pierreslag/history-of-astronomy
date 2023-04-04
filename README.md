@@ -69,14 +69,23 @@ This website provides an overview of the history of astronomy instruments, inclu
 
 
 # Testing
+* Tested on chrome and brave
+* Responsivness works
+* Navigation bar works and easy to find
+* The contact form is working
 
+# Bugs
+### Solved
+* Under 768px bugg
+* Quote box sticking to the right
+* Navbar not working
 ## Validator Testing
 
 * ### HTML
-    o No errors were returned when passing through the official
+    o No errors were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/#textarea)
 
-    o No errors were returned when passing through the official
-
+* ### CSS
+    o No errors were returned when passing through the official [W3C Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
 ## Deployment
 
@@ -93,6 +102,12 @@ This website provides an overview of the history of astronomy instruments, inclu
     o Once the master branch is selected, the page will automatically refresh, and a ribbon will be displayed to indicate the successful deployment of the website.
 
 
-The live link can be found here -
+The live link can be found here - [LINKLINKLINK]()
 
 # Credit
+## Content
+* Neil deGrasse Tyson - for quote
+* Galileo Galilei - for quote
+
+## Pictures
+* Free pictures at [Pexels](https://www.pexels.com/)
