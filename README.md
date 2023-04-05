@@ -74,6 +74,8 @@ This website provides an overview of the history of astronomy instruments, inclu
 * Navigation bar works and easy to find
 * The contact form is working
 
+![accessi](https://user-images.githubusercontent.com/127848378/230028678-908e5154-7467-4412-b24b-44f1246de9d6.png)
+
 # Bugs
 ### Solved
 * Under 768px bugg
